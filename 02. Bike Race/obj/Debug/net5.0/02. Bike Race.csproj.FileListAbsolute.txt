@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net5.0\02. Bike Race.exe
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net5.0\02. Bike Race.deps.json
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net5.0\02. Bike Race.runtimeconfig.json
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net5.0\02. Bike Race.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net5.0\02. Bike Race.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net5.0\ref\02. Bike Race.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\bin\Debug\net5.0\02. Bike Race.pdb
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net5.0\02. Bike Race.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net5.0\02. Bike Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net5.0\02. Bike Race.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net5.0\02. Bike Race.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net5.0\02. Bike Race.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net5.0\02. Bike Race.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net5.0\ref\02. Bike Race.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net5.0\02. Bike Race.pdb
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\02. Bike Race\obj\Debug\net5.0\02. Bike Race.genruntimeconfig.cache

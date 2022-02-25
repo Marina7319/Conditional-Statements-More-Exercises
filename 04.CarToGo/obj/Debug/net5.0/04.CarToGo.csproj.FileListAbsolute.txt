@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\bin\Debug\net5.0\04.CarToGo.exe
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\bin\Debug\net5.0\04.CarToGo.deps.json
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\bin\Debug\net5.0\04.CarToGo.runtimeconfig.json
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\bin\Debug\net5.0\04.CarToGo.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\bin\Debug\net5.0\04.CarToGo.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\bin\Debug\net5.0\ref\04.CarToGo.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\bin\Debug\net5.0\04.CarToGo.pdb
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\obj\Debug\net5.0\04.CarToGo.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\obj\Debug\net5.0\04.CarToGo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\obj\Debug\net5.0\04.CarToGo.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\obj\Debug\net5.0\04.CarToGo.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\obj\Debug\net5.0\04.CarToGo.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\obj\Debug\net5.0\04.CarToGo.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\obj\Debug\net5.0\ref\04.CarToGo.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\obj\Debug\net5.0\04.CarToGo.pdb
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\04.CarToGo\obj\Debug\net5.0\04.CarToGo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\obj\Debug\net5.0\06. TruckDriver.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\obj\Debug\net5.0\06. TruckDriver.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\obj\Debug\net5.0\06. TruckDriver.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\obj\Debug\net5.0\06. TruckDriver.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\obj\Debug\net5.0\06. TruckDriver.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\bin\Debug\net5.0\06. TruckDriver.exe
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\bin\Debug\net5.0\06. TruckDriver.deps.json
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\bin\Debug\net5.0\06. TruckDriver.runtimeconfig.json
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\bin\Debug\net5.0\06. TruckDriver.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\bin\Debug\net5.0\06. TruckDriver.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\bin\Debug\net5.0\ref\06. TruckDriver.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\bin\Debug\net5.0\06. TruckDriver.pdb
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\obj\Debug\net5.0\06. TruckDriver.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\obj\Debug\net5.0\ref\06. TruckDriver.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\obj\Debug\net5.0\06. TruckDriver.pdb
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\06. TruckDriver\obj\Debug\net5.0\06. TruckDriver.genruntimeconfig.cache

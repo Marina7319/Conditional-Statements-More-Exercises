@@ -1,0 +1,16 @@
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\bin\Debug\net5.0\05.Vacation.exe
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\bin\Debug\net5.0\05.Vacation.deps.json
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\bin\Debug\net5.0\05.Vacation.runtimeconfig.json
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\bin\Debug\net5.0\05.Vacation.runtimeconfig.dev.json
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\bin\Debug\net5.0\05.Vacation.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\bin\Debug\net5.0\ref\05.Vacation.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\bin\Debug\net5.0\05.Vacation.pdb
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\obj\Debug\net5.0\05.Vacation.csproj.AssemblyReference.cache
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\obj\Debug\net5.0\05.Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\obj\Debug\net5.0\05.Vacation.AssemblyInfoInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\obj\Debug\net5.0\05.Vacation.AssemblyInfo.cs
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\obj\Debug\net5.0\05.Vacation.csproj.CoreCompileInputs.cache
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\obj\Debug\net5.0\05.Vacation.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\obj\Debug\net5.0\ref\05.Vacation.dll
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\obj\Debug\net5.0\05.Vacation.pdb
+C:\Users\Marina\source\repos\Conditional Statements Advanced - More Exercises\05.Vacation\obj\Debug\net5.0\05.Vacation.genruntimeconfig.cache
